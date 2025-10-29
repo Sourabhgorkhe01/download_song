@@ -1,3 +1,3 @@
-python-telegram-bot==20.3
-yt-dlp @ git+https://github.com/yt-dlp/yt-dlp.git@master
-ffmpeg-python
+python-telegram-bot[webhooks]==20.7
+yt-dlp==2023.11.16
+ffmpeg-python==0.2.0
